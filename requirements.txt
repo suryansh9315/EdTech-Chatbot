@@ -46,7 +46,6 @@ langchain-cohere==0.3.0
 langchain-community==0.3.1
 langchain-core==0.3.7
 langchain-experimental==0.3.2
-langchain-huggingface==0.1.0
 langchain-text-splitters==0.3.0
 langsmith==0.1.129
 markdown-it-py==3.0.0
