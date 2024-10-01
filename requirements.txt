@@ -1,0 +1,11 @@
+langchain
+langchain_community
+python-dotenv
+streamlit
+tiktoken
+faiss-cpu
+protobuf
+sentence-transformers==2.2.2
+InstructorEmbedding
+langchain-huggingface
+langchain-cohere
